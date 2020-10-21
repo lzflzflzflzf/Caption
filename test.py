@@ -1,7 +1,5 @@
 import numpy as mp
 
-a = 12
-b = a+1
-print(b)
+c = 12
 print(123)
 print("asdf")
